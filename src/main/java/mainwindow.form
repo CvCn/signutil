@@ -48,7 +48,7 @@
                 <properties>
                   <font size="16"/>
                   <lineWrap value="true"/>
-                  <text value="appId=123456&amp;appSecret =654321"/>
+                  <text value="appId=123456&amp;appSecret=654321"/>
                 </properties>
               </component>
             </children>
